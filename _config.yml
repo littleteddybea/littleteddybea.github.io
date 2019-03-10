@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+title: Bea's Spendenaktion
+description: Bea's Spendenaktion
+
+remote_theme: littleteddybea/jekyll-wing-template
