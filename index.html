@@ -5,7 +5,10 @@ layout: default
 <div class="home">
    <div class="top card">
         <!-- <p class="balance"></a> -->
-        <p class="description">{% include_relative welcome.md %}</p>
+        <p class="description">
+            {% capture welcome_include %}{% include_relative welcome.md %}{% endcapture %}
+            {{ welcome_include | markdownify }}
+        </p>
         <a href="about" class="btn">Read More</a>
     </div>
 
