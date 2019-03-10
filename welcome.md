@@ -1,10 +1,10 @@
 ### Hallo liebe Leute!
 
-Damit mehr Menschen in dieser Welt so glücklich werden wie ich auf diesem Foto, welches in Stockholm einen Tag vor meinem 21. Geburtstag aufgenommen wurde während ich gerade genüsslich eine Zimtschnecke verspeise um die lange Wartezeit auf die rote Ampel zu verkürzen, freue ich mich ab heute über eine Steigerung des hier angezeigten Spendenbetrags anstelle von geplanten Geschenken zu Geburtstagen oder Mitbringsel (ich verzichte also auch auf Schokolade!).
+Damit mehr Menschen in dieser Welt so glücklich werden wie ich auf diesem Foto, welches in Stockholm einen Tag vor meinem 21. Geburtstag aufgenommen wurde während ich gerade genüsslich eine Zimtschnecke verspeise um die lange Wartezeit auf die rote Ampel zu verkürzen, freue ich mich ab heute über eine Steigerung des hier angezeigten Spendenbetrags anstelle von geplanten Geschenken zu Geburtstagen oder Mitbringsel. Nette Karten sind natürlich trotzdem noch erlaubt ;)
 
-Schickt mir einfach einen für euer Empfinden angemessenen Betrag mit einem netten Verwendungszweck, welcher das Wort "Spende" enthalten sollte (ansonsten bewirkt ihr eine Erhöhung meines persönlichen Kontostands, was wiederum vermutlich zu einem steigenden Konsum von Schokolade meinerseits führen würde..) auf das folgende Konto:
+Schickt mir einfach einen für euer Empfinden angemessenen Betrag mit einem netten Verwendungszweck, **welcher das Wort "Spende" enthalten** sollte (ansonsten bewirkt ihr eine Erhöhung meines *persönlichen Kontostands*, was wiederum vermutlich zu einem steigenden Konsum von Schokolade meinerseits führen würde - und das wollen wir ja nicht..) auf das folgende Konto:
 
-- **Name:Bea A. Wintschnig
+**- Name:Bea A. Wintschnig
 - IBAN:DE89 1001 1001 2620 8263 71
 - BIC:NTSBDEB1XXX**
 
