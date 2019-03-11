@@ -1,4 +1,4 @@
-### Hallo liebe Leute!
+### Hallo liebe Leute! :blush: :two_hearts:
 
 Damit mehr Menschen in dieser Welt so glücklich werden wie ich auf diesem Foto, welches in Stockholm einen Tag vor meinem 21. Geburtstag aufgenommen wurde während ich gerade genüsslich eine Zimtschnecke verspeise um die lange Wartezeit auf die rote Ampel zu verkürzen, freue ich mich ab heute über eine Steigerung des hier angezeigten Spendenbetrags anstelle von geplanten Geschenken zu Geburtstagen oder Mitbringsel. Nette Karten sind natürlich trotzdem noch erlaubt ;)
 
