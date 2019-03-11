@@ -4,9 +4,9 @@ Damit mehr Menschen in dieser Welt so glücklich werden wie ich auf diesem Foto,
 
 Schickt mir einfach einen für euer Empfinden angemessenen Betrag mit einem netten Verwendungszweck, **welcher das Wort "Spende" enthalten** sollte (ansonsten bewirkt ihr eine Erhöhung meines *persönlichen Kontostands*, was wiederum vermutlich zu einem steigenden Konsum von Schokolade meinerseits führen würde - und das wollen wir ja nicht..) auf das folgende Konto:
 
-* **Name: Bea A. Wintschnig**
-* **IBAN: DE89 1001 1001 2620 8263 71**
-* **BIC: NTSBDEB1XXX**
+  * **Name: Bea A. Wintschnig**
+  * **IBAN: DE89 1001 1001 2620 8263 71**
+  * **BIC: NTSBDEB1XXX**
 
 Ein großes Danke geht raus an Hendrik, ohne den ich nicht gewusst hätte, dass man so etwas online implementieren kann, geschweige denn, wie man es macht. Grüße auch an JaSON, ohne dessen Übersetzungskünste dieses Programm nicht laufen würde.
 
