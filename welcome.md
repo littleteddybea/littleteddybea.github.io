@@ -12,4 +12,4 @@ Ein großes Danke geht raus an Hendrik, ohne den ich nicht gewusst hätte, dass 
 
 Und natürlich schon einmal ein *Dankeschön* an alle, die meiner Bitte nachgehen und einen Betrag schicken! Natürlich gilt auch hier das bekannte Motto "Jeder Cent zählt", aber mache Ausgaben, die man macht (Stichwort; 5€ für einen Starbucks-Cafe) lassen kleine Beträge automatisch etwas mikrig wirken ;)
 
-Der Betrag wird nicht an eine Organisation gehen, sondern an verschiedene. Mehr Infos dazu folgen auf den Blogeinträgen, die ich schreiben werde. Bis dahin: Vertraut mir! :blush:
+Der Betrag wird nicht an eine Organisation gehen, sondern an verschiedene. Mehr Infos dazu folgen auf den Blogeinträgen, die ich schreiben werde. Bis dahin: Vertraut mir!
