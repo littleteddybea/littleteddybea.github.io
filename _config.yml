@@ -2,8 +2,5 @@ title: Bea's Spendenaktion
 description: Bea's Spendenaktion
 
 remote_theme: littleteddybea/jekyll-wing-template
-
-import markdown
-
-md = markdown.Markdown(extensions=["markdown_markup_emoji.markup_emoji"])
-md.convert("markdown text")
+plugins:
+  - jemoji
