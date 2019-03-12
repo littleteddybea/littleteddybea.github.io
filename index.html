@@ -9,7 +9,6 @@ layout: default
             {% capture welcome_include %}{% include_relative welcome.md %}{% endcapture %}
             {{ welcome_include | markdownify }}
         </p>
-        <a href="about" class="btn">Read More</a>
     </div>
 
     <div class="posts card">
@@ -25,7 +24,7 @@ layout: default
                 {% endfor %}
             </ul>
 
-            <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+            <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS Feed</a></p>
         </div>
     </div>
 
