@@ -44,6 +44,24 @@ layout: default
     </div>
 </div>
 
+<div>
+  <div id="count">
+  <h2>Anzahl der Spender</h2>
+  <button type="button" onclick="load_count()"> Change Content</button>
+</div>
+
+<div>
+  <div id = "donations">
+    <h2>Danke an:<h2/>
+    <button type ="button" onclick="load_donations()"> Change Content </button>
+</div>
+
+<div>
+  <div id="balance">
+    <h2>aktueller Spendenbetrag</h2>
+    <button type ="button" onclick="load_balance()"> Change Content</button>
+</div>
+
 <script type="text/javascript">
   function load_donations() {
     var xhr = new XMLHttpRequest();
@@ -55,4 +73,28 @@ layout: default
     xhr.open("GET", "https://bedon.herokuapp.com/donations", true);
     xhr.send();
   }
+
+  function load_balance() {
+    var xhs = new XMLHttpRequest();
+    xhs.onreadystatechange = function () {
+      if (xhs.readystate == 4 && xhs.status == 200) {
+        console.log(xhs.responseText);
+      }
+    };
+    xhr.open ("GET", "https://bedon.herokuapp.com/balance", true);
+    xhr.send ();
+  }
+
+  function load_count() {
+    var xht = new XMLHttpRequest();
+    xht.onreadystatechange = function () {
+      if (xht.readystate == 4 && xht.status == 200) {
+        console.log(xht.responseText);
+      }
+    };
+    xht.open ("GET", "https://bedon.herokuapp.com/balance", true);
+    xht.send ();
+  }
+
+#wieso in zeile 72 nicht gleich ;?
 </script>
