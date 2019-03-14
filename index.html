@@ -61,7 +61,24 @@ layout: default
     var xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function() {
       if (xhr.readyState == 4 && xhr.status == 200) {
-        console.log(xhr.responseText);
+        var data = JSON.parse(xhr.responseText);
+        var ul_donations = document.getElementById("donations");
+        data.forEach(function(donation) {
+          var li = document.createElement("li");
+          var meta = document.createElement("span");
+          var name = document.createElement("span");
+
+          meta.classList.add("post-meta");
+          meta.innerHTML = donation.date;
+
+          name.classList.add("post-link");
+          name.innerHTML = donation.name + " - " + donation.amount + " €";
+
+          li.appendChild(meta);
+          li.appendChild(name);
+
+          ul_donations.appendChild(li);
+        });
       }
     };
     xhr.open("GET", "https://bedon.herokuapp.com/donations", true);
@@ -89,4 +106,6 @@ layout: default
     xhr.open("GET", "https://bedon.herokuapp.com/count", true);
     xhr.send();
   }
+
+  load_donations();
 </script>
