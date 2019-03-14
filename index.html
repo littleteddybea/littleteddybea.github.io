@@ -32,7 +32,7 @@ layout: default
         <div class="card-content white-text">
             <span class="card-title">Spenden</span>
 
-            <ul class="post-list">
+            <ul class="post-list" id="donations">
                 {% for post in site.posts %}
                 <li>
                     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -51,12 +51,6 @@ layout: default
 </div>
 
 <div>
-  <div id = "donations">
-    <h4>Danke an:<h4/>
-    <button type ="button" onclick="load_donations()">Spender</button>
-</div>
-
-<div>
   <div id="balance">
     <h4>aktueller Spendenbetrag</h4>
     <button type ="button" onclick="load_balance()">Betrag</button>
@@ -65,8 +59,8 @@ layout: default
 <script type="text/javascript">
   function load_donations() {
     var xhr = new XMLHttpRequest();
-    xhr.onreadystatechange = function () {
-      if (xhr.readystate == 4 && xhr.status == 200) {
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState == 4 && xhr.status == 200) {
         console.log(xhr.responseText);
       }
     };
@@ -75,26 +69,24 @@ layout: default
   }
 
   function load_balance() {
-    var xhs = new XMLHttpRequest();
-    xhs.onreadystatechange = function () {
-      if (xhs.readystate == 4 && xhs.status == 200) {
-        console.log(xhs.responseText);
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState == 4 && xhr.status == 200) {
+        console.log(xhr.responseText);
       }
     };
-    xhr.open ("GET", "https://bedon.herokuapp.com/balance", true);
-    xhr.send ();
+    xhr.open("GET", "https://bedon.herokuapp.com/balance", true);
+    xhr.send();
   }
 
   function load_count() {
-    var xht = new XMLHttpRequest();
-    xht.onreadystatechange = function () {
-      if (xht.readystate == 4 && xht.status == 200) {
-        console.log(xht.responseText);
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState == 4 && xhr.status == 200) {
+        console.log(xhr.responseText);
       }
     };
-    xht.open ("GET", "https://bedon.herokuapp.com/balance", true);
-    xht.send ();
+    xhr.open("GET", "https://bedon.herokuapp.com/count", true);
+    xhr.send();
   }
-
-#wieso in zeile 72 nicht gleich ;?
 </script>
