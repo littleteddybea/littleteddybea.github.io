@@ -68,10 +68,13 @@ layout: default
           var meta = document.createElement("span");
           var name = document.createElement("span");
 
-          meta.classList.add("post-meta");
-
           var date = new Date(donation.date);
-          meta.innerHTML = date;
+          var day = date.getDate();
+          var month = date.getMonth() + 1;
+          var year = date.getFullYear();
+          
+          meta.classList.add("post-meta");
+          meta.innerHTML = day + "." + month + "." + year;
 
           name.classList.add("post-link");
           name.innerHTML = donation.name + " - " + donation.amount + " €";
