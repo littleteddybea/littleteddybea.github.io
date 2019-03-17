@@ -3,13 +3,12 @@ layout: default
 ---
 
 <div class="home">
-  <div id="count">
+  <div class="count" id="count">
     <h4>Anzahl der Spender</h4>
   </div>
 
-  <div id="balance">
+  <div class="balance" id="balance">
       <h4>aktueller Spendenbetrag</h4>
-      <button type ="button" onclick="load_balance()">Betrag</button>
   </div>
 
    <div class="top card">
@@ -52,6 +51,16 @@ layout: default
         </div>
     </div>
 </div>
+
+<style>
+  .count {
+    float: left;
+  }
+
+  .balance {
+    float: right;
+  }
+</style>
 
 <script type="text/javascript">
   function load_donations() {
