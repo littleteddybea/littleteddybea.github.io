@@ -10,6 +10,6 @@ Schickt mir einfach einen für euer Empfinden angemessenen Betrag mit einem nett
 
 Ein großes Danke geht raus an Hendrik, ohne den ich nicht gewusst hätte, dass man so etwas online implementieren kann, geschweige denn, wie man es macht. Grüße auch an JaSON, ohne dessen Übersetzungskünste dieses Programm nicht laufen würde.
 
-Und natürlich schon einmal ein *Dankeschön* an alle, die meiner Bitte nachgehen und einen Betrag schicken! Natürlich gilt auch hier das bekannte Motto "Jeder Cent zählt", also vielleicht lässt sich der nächste überteuerte Starbucks-5€-Kaffee ja anders investieren, hehe.
+Und natürlich schon einmal ein *Dankeschön* an alle, die meiner Bitte nachgehen und einen Betrag schicken! Natürlich gilt auch hier das bekannte Motto "Jeder Cent zählt", also vielleicht lassen sich die 5€ des nächsten Starbucks-Kaffees ja anders investieren, hehe.
 
 Der Betrag wird nicht an eine Organisation gehen, sondern an verschiedene. Mehr Infos dazu folgen auf den Blogeinträgen, die ich schreiben werde. Bis dahin: Vertraut mir! :blush:
