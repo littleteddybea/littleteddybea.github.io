@@ -4,11 +4,9 @@ layout: default
 
 <div class="home">
   <div class="count" id="count">
-    <h4>Anzahl der Spender</h4>
   </div>
 
   <div class="balance" id="balance">
-      <h4>aktueller Spendenbetrag</h4>
   </div>
 
    <div class="top card">
@@ -41,12 +39,6 @@ layout: default
             <span class="card-title">Spenden</span>
 
             <ul class="post-list" id="donations">
-                {% for post in site.posts %}
-                <li>
-                    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                </li>
-                {% endfor %}
             </ul>
         </div>
     </div>
@@ -69,6 +61,7 @@ layout: default
       if (xhr.readyState == 4 && xhr.status == 200) {
         var data = JSON.parse(xhr.responseText);
         var ul_donations = document.getElementById("donations");
+        // for donation in data:
         data.forEach(function(donation) {
           var li = document.createElement("li");
           var meta = document.createElement("span");
@@ -80,6 +73,7 @@ layout: default
           var year = date.getFullYear();
 
           meta.classList.add("post-meta");
+          // innerhtml ist unter meta also was im block drinnensteht
           meta.innerHTML = day + "." + month + "." + year;
 
           name.classList.add("post-link");
@@ -100,7 +94,8 @@ layout: default
     var xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function() {
       if (xhr.readyState == 4 && xhr.status == 200) {
-        console.log(xhr.responseText);
+        var div = document.getElementById("balance");
+        div.innerHTML = xhr.responseText;
       }
     };
     xhr.open("GET", "https://bedon.herokuapp.com/balance", true);
@@ -112,6 +107,8 @@ layout: default
     xhr.onreadystatechange = function() {
       if (xhr.readyState == 4 && xhr.status == 200) {
         console.log(xhr.responseText);
+        var div = document.getElementById("count");
+        div.innerHTML = xhr.responseText;
       }
     };
     xhr.open("GET", "https://bedon.herokuapp.com/count", true);
