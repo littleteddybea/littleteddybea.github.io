@@ -1,6 +1,6 @@
 ### Hallo liebe Leute! :blush: :two_hearts:
 
-Damit mehr Menschen in dieser Welt so glücklich werden wie ich auf diesem Foto, welches in Straßen Stockholms einen Tag vor meinem 21. Geburtstag aufgenommen wurde während ich gerade genüsslich eine Zimtschnecke verspeise, freue ich mich ab heute über eine Steigerung des hier angezeigten Spendenbetrags anstelle von geplanten Geschenken zu Geburtstagen oder Mitbringsel. Nette Karten sind natürlich trotzdem noch erlaubt ;)
+Damit mehr Menschen in dieser Welt so glücklich werden wie ich auf diesem Foto, welches in den Straßen Stockholms einen Tag vor meinem 21. Geburtstag aufgenommen wurde während ich gerade genüsslich eine Zimtschnecke verspeise, freue ich mich ab heute über eine Steigerung des hier angezeigten Spendenbetrags anstelle von geplanten Geschenken zu Geburtstagen oder Mitbringsel. Nette Karten sind natürlich trotzdem noch erlaubt ;)
 
 Schickt mir einfach einen für euer Empfinden angemessenen Betrag mit einem netten Verwendungszweck, **welcher das Wort "Spende" enthalten** sollte (ansonsten bewirkt ihr eine Erhöhung meines *persönlichen Kontostands*, was wiederum vermutlich zu einem steigenden Konsum von Schokolade meinerseits führen würde - und das wollen wir ja nicht..) auf das folgende Konto:
 
