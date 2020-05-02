@@ -8,8 +8,8 @@ Schickt mir einfach einen für euer Empfinden angemessenen Betrag mit einem krea
   * **IBAN: DE89 1001 1001 2620 8263 71**
   * **BIC: NTSBDEB1XXX**
 
-Ein großes Danke geht raus an Hendrik, ohne den ich nicht gewusst hätte, dass man so etwas online implementieren kann, geschweige denn, wie man es macht. Grüße auch an JaSON, ohne dessen Übersetzungskünste dieses Programm nicht laufen würde.
-
-Und natürlich schon einmal ein *Dankeschön* an alle, die meiner Bitte nachgehen und einen Betrag schicken! Natürlich gilt auch hier das bekannte Motto "Jeder Cent zählt", also vielleicht lassen sich die 5€ des nächsten Starbucks-Kaffees ja in etwas anders investieren :wink:
+Ein großes Danke geht raus an Hendrik, ohne den ich nicht gewusst hätte, dass man so etwas online implementieren kann, geschweige denn, wie man es macht. Grüße auch an JaSON, ohne dessen Übersetzungskünste dieses Programm nicht laufen würde. Und natürlich schon einmal ein *Dankeschön* an alle, die meiner Bitte nachgehen und einen Betrag schicken! You are a hero, hehe.
 
 Der Betrag wird nicht an eine Organisation gehen, sondern an verschiedene. Mehr Infos dazu folgen auf den Blogeinträgen, die ich schreiben werde. Bis dahin: Vertraut mir! :blush:
+
+- LEIDER HAT N26 BESCHLOSSEN SEINE BEDINGUNGEN ZU ÄNDERN UND DESHALB WIRD DER KONTOSTAND NICHT ANGEZEIGT :( -
